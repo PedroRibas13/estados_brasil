@@ -7,11 +7,14 @@
         "id": 11,
         "name": "Rondônia",
         "abbr": "RO",
-        "capital": "Porto Velho"
+        "capital": "Porto Velho",
+        "lookup": "RO"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-63.9028, -8.7615]
+        "coordinates": [-63.9028, -8.7615],
+        "latitude": -8.7615,
+        "longitude": -63.9028
       }
     },
     {
@@ -20,11 +23,14 @@
         "id": 12,
         "name": "Acre",
         "abbr": "AC",
-        "capital": "Rio Branco"
+        "capital": "Rio Branco",
+        "lookup": "AC"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-67.8099, -9.9749]
+        "coordinates": [-67.8099, -9.9749],
+        "latitude": -9.9749,
+        "longitude": -67.8099
       }
     },
     {
@@ -33,11 +39,14 @@
         "id": 13,
         "name": "Amazonas",
         "abbr": "AM",
-        "capital": "Manaus"
+        "capital": "Manaus",
+        "lookup": "AM"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-60.2225, -3.1190]
+        "coordinates": [-60.2225, -3.1190],
+        "latitude": -3.1190,
+        "longitude": -60.2225
       }
     },
     {
@@ -46,11 +55,14 @@
         "id": 14,
         "name": "Roraima",
         "abbr": "RR",
-        "capital": "Boa Vista"
+        "capital": "Boa Vista",
+        "lookup": "RR"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-60.6733, 2.8192]
+        "coordinates": [-60.6733, 2.8192],
+        "latitude": 2.8192,
+        "longitude": -60.6733
       }
     },
     {
@@ -59,11 +71,14 @@
         "id": 15,
         "name": "Pará",
         "abbr": "PA",
-        "capital": "Belém"
+        "capital": "Belém",
+        "lookup": "PA"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-48.4902, -1.4558]
+        "coordinates": [-48.4902, -1.4558],
+        "latitude": -1.4558,
+        "longitude": -48.4902
       }
     },
     {
@@ -72,11 +87,14 @@
         "id": 16,
         "name": "Amapá",
         "abbr": "AP",
-        "capital": "Macapá"
+        "capital": "Macapá",
+        "lookup": "AP"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-51.0700, 0.0355]
+        "coordinates": [-51.0700, 0.0355],
+        "latitude": 0.0355,
+        "longitude": -51.0700
       }
     },
     {
@@ -85,11 +103,14 @@
         "id": 17,
         "name": "Tocantins",
         "abbr": "TO",
-        "capital": "Palmas"
+        "capital": "Palmas",
+        "lookup": "TO"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-48.3342, -10.1896]
+        "coordinates": [-48.3342, -10.1896],
+        "latitude": -10.1896,
+        "longitude": -48.3342
       }
     },
     {
@@ -98,11 +119,14 @@
         "id": 21,
         "name": "Maranhão",
         "abbr": "MA",
-        "capital": "São Luís"
+        "capital": "São Luís",
+        "lookup": "MA"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-44.2822, -2.5391]
+        "coordinates": [-44.2822, -2.5391],
+        "latitude": -2.5391,
+        "longitude": -44.2822
       }
     },
     {
@@ -111,11 +135,14 @@
         "id": 22,
         "name": "Piauí",
         "abbr": "PI",
-        "capital": "Teresina"
+        "capital": "Teresina",
+        "lookup": "PI"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-42.8034, -5.0919]
+        "coordinates": [-42.8034, -5.0919],
+        "latitude": -5.0919,
+        "longitude": -42.8034
       }
     },
     {
@@ -124,11 +151,14 @@
         "id": 23,
         "name": "Ceará",
         "abbr": "CE",
-        "capital": "Fortaleza"
+        "capital": "Fortaleza",
+        "lookup": "CE"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-38.5432, -3.7172]
+        "coordinates": [-38.5432, -3.7172],
+        "latitude": -3.7172,
+        "longitude": -38.5432
       }
     },
     {
@@ -137,11 +167,14 @@
         "id": 24,
         "name": "Rio Grande do Norte",
         "abbr": "RN",
-        "capital": "Natal"
+        "capital": "Natal",
+        "lookup": "RN"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-35.2110, -5.7945]
+        "coordinates": [-35.2110, -5.7945],
+        "latitude": -5.7945,
+        "longitude": -35.2110
       }
     },
     {
@@ -150,11 +183,14 @@
         "id": 25,
         "name": "Paraíba",
         "abbr": "PB",
-        "capital": "João Pessoa"
+        "capital": "João Pessoa",
+        "lookup": "PB"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-34.8450, -7.1195]
+        "coordinates": [-34.8450, -7.1195],
+        "latitude": -7.1195,
+        "longitude": -34.8450
       }
     },
     {
@@ -163,11 +199,14 @@
         "id": 26,
         "name": "Pernambuco",
         "abbr": "PE",
-        "capital": "Recife"
+        "capital": "Recife",
+        "lookup": "PE"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-34.8770, -8.0476]
+        "coordinates": [-34.8770, -8.0476],
+        "latitude": -8.0476,
+        "longitude": -34.8770
       }
     },
     {
@@ -176,11 +215,14 @@
         "id": 27,
         "name": "Alagoas",
         "abbr": "AL",
-        "capital": "Maceió"
+        "capital": "Maceió",
+        "lookup": "AL"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-35.7350, -9.6658]
+        "coordinates": [-35.7350, -9.6658],
+        "latitude": -9.6658,
+        "longitude": -35.7350
       }
     },
     {
@@ -189,11 +231,14 @@
         "id": 28,
         "name": "Sergipe",
         "abbr": "SE",
-        "capital": "Aracaju"
+        "capital": "Aracaju",
+        "lookup": "SE"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-37.0731, -10.9472]
+        "coordinates": [-37.0731, -10.9472],
+        "latitude": -10.9472,
+        "longitude": -37.0731
       }
     },
     {
@@ -202,11 +247,14 @@
         "id": 29,
         "name": "Bahia",
         "abbr": "BA",
-        "capital": "Salvador"
+        "capital": "Salvador",
+        "lookup": "BA"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-38.5014, -12.9714]
+        "coordinates": [-38.5014, -12.9714],
+        "latitude": -12.9714,
+        "longitude": -38.5014
       }
     },
     {
@@ -215,11 +263,14 @@
         "id": 31,
         "name": "Minas Gerais",
         "abbr": "MG",
-        "capital": "Belo Horizonte"
+        "capital": "Belo Horizonte",
+        "lookup": "MG"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-43.9386, -19.9191]
+        "coordinates": [-43.9386, -19.9191],
+        "latitude": -19.9191,
+        "longitude": -43.9386
       }
     },
     {
@@ -228,11 +279,14 @@
         "id": 32,
         "name": "Espírito Santo",
         "abbr": "ES",
-        "capital": "Vitória"
+        "capital": "Vitória",
+        "lookup": "ES"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-40.3128, -20.3155]
+        "coordinates": [-40.3128, -20.3155],
+        "latitude": -20.3155,
+        "longitude": -40.3128
       }
     },
     {
@@ -241,11 +295,14 @@
         "id": 33,
         "name": "Rio de Janeiro",
         "abbr": "RJ",
-        "capital": "Rio de Janeiro"
+        "capital": "Rio de Janeiro",
+        "lookup": "RJ"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-43.1729, -22.9068]
+        "coordinates": [-43.1729, -22.9068],
+        "latitude": -22.9068,
+        "longitude": -43.1729
       }
     },
     {
@@ -254,102 +311,14 @@
         "id": 35,
         "name": "São Paulo",
         "abbr": "SP",
-        "capital": "São Paulo"
+        "capital": "São Paulo",
+        "lookup": "SP"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-46.6333, -23.5505]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 41,
-        "name": "Paraná",
-        "abbr": "PR",
-        "capital": "Curitiba"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-49.2733, -25.4284]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 42,
-        "name": "Santa Catarina",
-        "abbr": "SC",
-        "capital": "Florianópolis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-48.5480, -27.5954]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 43,
-        "name": "Rio Grande do Sul",
-        "abbr": "RS",
-        "capital": "Porto Alegre"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-51.2177, -30.0346]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 50,
-        "name": "Mato Grosso do Sul",
-        "abbr": "MS",
-        "capital": "Campo Grande"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-54.6201, -20.4697]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 51,
-        "name": "Mato Grosso",
-        "abbr": "MT",
-        "capital": "Cuiabá"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-56.0979, -15.6010]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 52,
-        "name": "Goiás",
-        "abbr": "GO",
-        "capital": "Goiânia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-49.2643, -16.6864]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 53,
-        "name": "Distrito Federal",
-        "abbr": "DF",
-        "capital": "Brasília"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-47.9292, -15.7801]
+        "coordinates": [-46.6333, -23.5505],
+        "latitude": -23.5505,
+        "longitude": -46.6333
       }
     }
   ]
